@@ -7,6 +7,7 @@ public class Demo {
         System.out.println("Its github hooks with jenkins");
         System.out.println("Hi hello");
         System.out.println("Hello this is Khaled Saifullah");
-        System.out.println("Hello this is Nafis Ikbal");
+        System.out.println("Hello this is Nafiiiis Ikbal");
+        System.out.println("Hello this is ddaal");
     }
 }
