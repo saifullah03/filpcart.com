@@ -9,5 +9,6 @@ public class Demo {
         System.out.println("Hello this is Khaled Saifullah");
         System.out.println("Hello this is Nafiiiis Ikbal");
         System.out.println("Hello this is ddaal");
+        System.out.println("Soft drinks");
     }
 }
